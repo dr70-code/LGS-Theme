@@ -1,12 +1,20 @@
 {
   "name": "LGS Blue",
   "author": "LGS",
-  "description": "Official LGS Theme",
+  "description": "LGS Official Blue Theme",
+  "spec": 2,
   "semanticColors": {
     "BRAND_500": ["#4EA8FF"],
-    "BACKGROUND_PRIMARY": ["#0A1D4D"],
-    "BACKGROUND_SECONDARY": ["#10307A"],
+    "BRAND_560": ["#2F7FFF"],
+    "BACKGROUND_PRIMARY": ["#07193D"],
+    "BACKGROUND_SECONDARY": ["#0A1D4D"],
+    "BACKGROUND_TERTIARY": ["#10307A"],
+    "BACKGROUND_ACCENT": ["#1E4FFF"],
     "TEXT_NORMAL": ["#FFFFFF"],
-    "HEADER_PRIMARY": ["#FFFFFF"]
-  }
+    "TEXT_MUTED": ["#8FD8FF"],
+    "HEADER_PRIMARY": ["#FFFFFF"],
+    "HEADER_SECONDARY": ["#8FD8FF"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#0A1D4D"]
+  },
+  "rawColors": {}
 }
