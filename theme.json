@@ -1,0 +1,12 @@
+{
+  "name": "LGS Blue",
+  "author": "LGS",
+  "description": "Official LGS Theme",
+  "semanticColors": {
+    "BRAND_500": ["#4EA8FF"],
+    "BACKGROUND_PRIMARY": ["#0A1D4D"],
+    "BACKGROUND_SECONDARY": ["#10307A"],
+    "TEXT_NORMAL": ["#FFFFFF"],
+    "HEADER_PRIMARY": ["#FFFFFF"]
+  }
+}
